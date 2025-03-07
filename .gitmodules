@@ -1,0 +1,8 @@
+[submodule "scripts/MAF"]
+	path = scripts/MAF
+	url = git@github.com:team113sanger/dermatlas_analysis_maf.git
+	branch = 0.5.4
+[submodule "scripts/QC"]
+	path = scripts/QC
+	url = git@github.com:team113sanger/dermatlas_analysis_qc.git
+	branch = 0.4.3
