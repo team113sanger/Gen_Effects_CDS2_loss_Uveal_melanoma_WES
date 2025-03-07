@@ -1,0 +1,73 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv
+tmp
+bams
+BAMS
+fastqs
+logs
+*.fastq.gz
+*.fq.gz
+*.bam
+*.cram
+.Rprofile
+
+# Ignore dot env
+*.venv
+resources/ascat
+resources/baitset/*
+!resources/baitset/GRCh38_WES5_canonical_pad100.merged.bed
+!resources/caveman
+resources/dbsnp/*
+!resources/dbsnp/README_common_snps.txt
+!resources/dbsnp/addheader.txt
+resources/ensembl/*
+!resources/ensembl/dermatlas_noncanonical_transcripts_ens103.tsv
+resources/germline
+resources/GIAB
+resources/gistic
+resources/music2
+resources/pindel/*
+!resources/pindel/WXS_Rules.lst
+resources/Signal
+resources/ucsc
+resources/dndscv
+resources/COSMIC/*
+!resources/COSMIC/OMM2.5_mutated_cancer_gene_census.v97.genes_names.tsv
+analysis/caveman_files
+analysis/CAVEMAN
+analysis/pindel_files
+analysis/PINDEL3.11
+
+# Ignore files in analysis
+scripts/7687_kallisto_final_jobs_ensv112.sh
+analysis/variants_combined/release_v1
+analysis/variants_combined/version1
+analysis/variants_combined/release_v2
+!analysis/variants_combined/version2/all/keep_caveman_pindel_all.maf
+
+
+
+
+documentation/CRISPResso2_image_installation.md
+
+
+#Reference generation scripts
+reference/NOD_ShiLtJ_V1_PDX_ref/*
+!reference/NOD_ShiLtJ_V1_PDX_ref/PDX_from_LatAm_mouse_reference_generation_NOD_ShiLtJ_v1.Rmd
+!reference/NOD_ShiLtJ_V1_PDX_ref/PDX_from_LatAm_mouse_reference_generation_NOD_ShiLtJ_v1.html
+!reference/NOD_ShiLtJ_V1_PDX_ref/renv.lock
+!reference/NOD_ShiLtJ_V1_PDX_ref/README.md
+
+# Singularity images processing scripts
+scripts/singularity_images/*/*.sif

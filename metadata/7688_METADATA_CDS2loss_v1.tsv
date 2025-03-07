@@ -1,0 +1,22 @@
+LvdW ID	Case ID	Collaborator	Country	HMDMC	Diagnosis	Phenotype	T/N linked	Tissue	Site	General_site	Tumour type	Sex	Age	Location of normal	Sample received	Sample extracted	No. cores	DNA (uL)	RNA (uL)	Notes from sample prep	Slide scanned?	Sample location	Sanger DNA ID	OK_to_analyse_DNA?	Sanger RNA ID	OK_to_analyse_RNA?	Clinical notes	Comments
+1	7688STDY14738657	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_CDS2_gRNA_R1_DNA	Yes	SW837_C9_CDS2_gRNA_R1_RNA	Yes		
+2	7688STDY14738658	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_CDS2_gRNA_R2_DNA	Yes	SW837_C9_CDS2_gRNA_R2_RNA	Yes		
+3	7688STDY14738659	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_CDS2_gRNA_R3_DNA	Yes	SW837_C9_CDS2_gRNA_R3_RNA	Yes		
+4	7688STDY14738660	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_safe_gRNA_R1_DNA	Yes	SW837_C9_safe_gRNA_R1_RNA	Yes		
+5	7688STDY14738661	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_safe_gRNA_R2_DNA	Yes	SW837_C9_safe_gRNA_R2_RNA	Yes		
+6	7688STDY14738662	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_safe_gRNA_R3_DNA	Yes	SW837_C9_safe_gRNA_R3_RNA	Yes		
+7	7688STDY14738663	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_uninfected_R1_DNA	Yes	SW837_C9_uninfected_R1_RNA	Yes		
+8	7688STDY14738664	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_uninfected_R2_DNA	Yes	SW837_C9_uninfected_R2_RNA	Yes		
+9	7688STDY14738665	Jen	UK	NA	Colorectal adenocarcinoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		SW837_C9_uninfected_R3_DNA	Yes	SW837_C9_uninfected_R3_RNA	Yes		
+10	7688STDY14738666	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Cas9_WT_R1_DNA	Yes	CDS2_Tumour_Cas9_WT_R1_RNA	Yes		
+11	7688STDY14738667	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Cas9_WT_R2_DNA	Yes	CDS2_Tumour_Cas9_WT_R2_RNA	Yes		
+12	7688STDY14738668	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Non-treated_R1_DNA	Yes	CDS2_Tumour_Non-treated_R1_RNA	Yes		
+13	7688STDY14738669	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Non-treated_R3_DNA	Yes	CDS2_Tumour_Non-treated_R3_RNA	Yes		
+14	7688STDY14738670	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Cas9_WT_R3_DNA	Yes	CDS2_Tumour_Cas9_WT_R3_RNA	Yes		
+15	7688STDY14738671	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Cas9_WT_R4_DNA	Yes	CDS2_Tumour_Cas9_WT_R4_RNA	Yes		
+16	7688STDY14738672	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Non-treated_R2_DNA	Yes	CDS2_Tumour_Non-treated_R2_RNA	Yes		
+17	7688STDY14738673	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Non-treated_R4_DNA	Yes	CDS2_Tumour_Non-treated_R4_RNA	Yes		
+18	7688STDY14738674	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Treated_R1_DNA	Yes	CDS2_Tumour_Treated_R1_RNA	Yes		
+19	7688STDY14738675	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Treated_R2_DNA	Yes	CDS2_Tumour_Treated_R2_RNA	Yes		
+20	7688STDY14738676	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Treated_R3_DNA	Yes	CDS2_Tumour_Treated_R3_RNA	Yes		
+21	7688STDY14738677	Jen	UK	NA	Uveal melanoma	T	NA	Cell_Line	NA	unk	P	Unknown	Unknown	-	10.02.2021	10.02.2021	1	45			N		CDS2_Tumour_Treated_R4_DNA	Yes	CDS2_Tumour_Treated_R4_RNA	Yes		
