@@ -1,0 +1,1 @@
+##INFO=<ID=COMMON_SNP,Number=.,Type=String,Description="Common SNP in dbSNP155">
