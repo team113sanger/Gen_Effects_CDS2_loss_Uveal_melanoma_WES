@@ -25,6 +25,7 @@ The following software is required to be installed and visible in the path befor
 - **R**: R `4.2.2`
 - **samtools**: samtools `v1.14`
 - **bwa-mem**: bew-mem `v0.7.17`
+- **XenofilteR**: XenofilteR `v1.6`
 
 - Load the following variables and software
 ```bash

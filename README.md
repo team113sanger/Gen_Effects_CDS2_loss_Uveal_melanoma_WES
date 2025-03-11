@@ -40,6 +40,7 @@ Analyses were performed using a combination of R, Perl and shell scripts.
 - The following software was used:
   - `samtools` version`v1.14` [**here**](https://github.com/samtools/samtools)
   - `bwa-mem` version `0.7.17` [**here**](https://github.com/lh3/bwa)
+  - `XenofilteR` version `1.6` [**here**](https://github.com/NKI-GCF/XenofilteR/releases/tag/v1.6)
   - `bcftools` version `1.9` [**here**](https://github.com/samtools/bcftools/)
   - `tabix` version `1.9` [**here**](https://github.com/samtools/tabix/)
   - `CaVEMan` version `1.18.2` [**here**](https://github.com/cancerit/CaVEMan)
