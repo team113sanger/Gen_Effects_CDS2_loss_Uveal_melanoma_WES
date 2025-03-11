@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/935383303.svg)](https://doi.org/10.5281/zenodo.15007268)
+
 # Analysis of the genetic effects of _CDS2_ targeting - Whole Exome
 
 ## Overview 
