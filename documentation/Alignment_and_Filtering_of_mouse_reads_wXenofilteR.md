@@ -198,11 +198,11 @@ Rscript ${PROJECTDIR}/scripts/pdx_processing/run_Xenofilter_from_WES_master_mani
  `metadata/manifests/7688_cram_manifest_INFO_from_iRODS_wbam_counts_qc_psamp_mouse_xfb.txt`
 
 
-#### Split input BAM files, split by read names from canapps bam file and run XenofilteR for PDX filtering from Manifest
+#### Split input BAM files, split by read names from Human BAM files and run XenofilteR for mouse read filtering
 
 To split the reads we used the script: **split_bam_files_and_get_xenofilter_jobs.R**. 
 
-The script takes the a manifest with BAM file information and generates the jobs to take the unfiltered human BAM files, sort by read name, obtain a plain text file with the read names for all the reads present in the file, then it will split this file in the number of files required that have a maximum of `NREADS_SPLIT` per file. Subsequently it will split the Human and Mouse BAM files by read names and then generate the jobs to run XenofilteR to filter out the mouse reads for the matching Human & Mouse BAM files.
+The script takes the a manifest with BAM file information and generates the jobs to take the unfiltered human BAM files, sort by read name, obtain a plain text file with the read names for all the reads present in the file, then it will split this file in the number of files required that have a maximum of `NREADS_SPLIT` per file. **This approach was followed as the samples were sequenced across a sinlge land and only a single readgroup was present.** Subsequently it will split the Human and Mouse BAM files by read names and then generate the jobs to run XenofilteR to filter out the mouse reads for the matching Human & Mouse BAM files.
 
 **INPUT**: `metadata/manifests/7688_cram_manifest_INFO_from_iRODS_wbam_counts_qc_psamp_mouse_xfb.txt`
 
